@@ -549,3 +549,7 @@ img {
  letter-spacing:  0.02em;
  color: #ffffff;
 }
+
+.footer-form{
+  display: flex;
+}
