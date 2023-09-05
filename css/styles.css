@@ -548,11 +548,13 @@ img {
  line-height: 1.5;
  letter-spacing:  0.02em;
  color: #ffffff;
+ margin-left: 80px;
 }
 
 .footer-form{
   display: flex;
   gap: 24px;
+  padding-left: 80px;
 }
 
 .footer-subscribe-input{
