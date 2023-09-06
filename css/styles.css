@@ -660,3 +660,7 @@ img {
 .modal-wrapper{
   margin-bottom: 8px;
 }
+
+.modal-label{
+  font-size: 12px;
+}
