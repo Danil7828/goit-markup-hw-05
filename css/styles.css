@@ -750,6 +750,6 @@ img {
   fill: transparent;
 }
 
-.modal-check-input:checked .modal-check-text .modal-check-box {
+.modal-check-input:checked .modal-check-text .modal-check-box{
   background-color: #404bbf;
 }
