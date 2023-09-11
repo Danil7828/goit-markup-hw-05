@@ -758,6 +758,6 @@ img {
   border: none;
 }
 
-.modal-check-input:checked + .modal-check-text .modal-icon-check  {
+.modal-check-input:checked + .modal-check-text .modal-icon-check use {
   fill: #F4F4FD;
 }
