@@ -702,3 +702,7 @@ img {
 .modal-input:focus .modal-icon-wrapper .modal-icon {
   fill: #4D5AE5;
 }
+
+.modal-text-field-wrapper{
+  margin-bottom: 16px;
+}
