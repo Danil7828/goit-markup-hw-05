@@ -755,3 +755,7 @@ img {
   border: none;
   fill: #F4F4FD;
 }
+
+.modal-link-text{
+  color: #4d5ae5;
+}
