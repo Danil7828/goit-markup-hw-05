@@ -730,3 +730,10 @@ img {
 .modal-check-wrapper{
   margin-bottom: 24px;
 }
+
+.modal-check-text{
+  font-size: 12px;
+  line-height: 1.17;
+  letter-spacing: 0.04em;
+  color: #8e8f99;
+}
