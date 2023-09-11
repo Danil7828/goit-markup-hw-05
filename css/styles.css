@@ -749,3 +749,7 @@ img {
   justify-content: center;
   fill: transparent;
 }
+
+.modal-check-input:checked .modal-check-text .modal-check-box {
+  background-color: #404bbf;
+}
