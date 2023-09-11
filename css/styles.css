@@ -726,3 +726,7 @@ img {
 .modal-text-field:focus{
   border-color: #4D5AE5;
 }
+
+.modal-check-wrapper{
+  margin-bottom: 24px;
+}
