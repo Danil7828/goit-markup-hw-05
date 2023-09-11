@@ -753,7 +753,6 @@ img {
 .modal-check-input:checked + .modal-check-text .modal-check-box {
   background-color:#404bbf;
 }
-
 .modal-check-input:checked + .modal-check-text {
   border: none;
 }
